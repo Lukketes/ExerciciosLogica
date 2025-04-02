@@ -23,4 +23,3 @@ elif delta > 0:
     x1 = (-b + math.sqrt(delta)) / (2 * a)
     x2 = (-b - math.sqrt(delta)) / (2 * a)
     print(f"A equação possui duas raizes reais: x1 = {x1}, x2 = {x2}")
-
